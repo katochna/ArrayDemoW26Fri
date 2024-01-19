@@ -5,7 +5,7 @@
 package arraydemoo;
 
 /**
- *
+ * This is to show modification
  * @author user
  */
 public class Student {
@@ -31,10 +31,5 @@ public class Student {
 
     public void setsName(String sName) {
         this.sName = sName;
-    }
-    
-    
-    
-    
-    
+    }   
 }
