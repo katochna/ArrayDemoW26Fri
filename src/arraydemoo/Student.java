@@ -7,6 +7,7 @@ package arraydemoo;
 /**
  * This is to show modification
  * @author user
+ * This is to show revert commit
  */
 public class Student {
     private int sID;
